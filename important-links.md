@@ -6,5 +6,5 @@
 ### Error Handler Plugin (Mule 4)
 - https://github.com/mulesoft-catalyst/error-handler-plugin
 
-### Anypoint MQ Queue Depth
-https://help.mulesoft.com/s/article/How-To-Get-Anypoint-MQ-Queue-Depth-Size-Using-Anypoint-MQ-APIs
+### Anypoint MQ
+https://help.mulesoft.com/s/article/How-To-Get-Anypoint-MQ-Queue-Depth-Size-Using-Anypoint-MQ-APIs (Queue Depth)
