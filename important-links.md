@@ -1,7 +1,8 @@
 ### Important Quick Links
 
-### Anypoint Platform APIs POSTMAN Collection
-- https://github.com/angelalberici/mulesoft-platform-apis/blob/master/PlatformAPIs%20Collection.postman_collection.json
+### Anypoint Platform APIs
+- https://github.com/angelalberici/mulesoft-platform-apis/blob/master/PlatformAPIs%20Collection.postman_collection.json (Platform APIs POSTMAN Collection)
+- https://anypoint.mulesoft.com/accounts/api/profile (Full Profile Details)
 
 ### Error Handler Plugin (Mule 4)
 - https://github.com/mulesoft-catalyst/error-handler-plugin
