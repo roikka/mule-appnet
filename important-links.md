@@ -8,4 +8,5 @@
 - https://github.com/mulesoft-catalyst/error-handler-plugin
 
 ### Anypoint MQ
-https://help.mulesoft.com/s/article/How-To-Get-Anypoint-MQ-Queue-Depth-Size-Using-Anypoint-MQ-APIs (Queue Depth)
+- https://help.mulesoft.com/s/article/How-To-Get-Anypoint-MQ-Queue-Depth-Size-Using-Anypoint-MQ-APIs (Queue Depth)
+- Error Handling with ANypoint MQ Circuit Breaker 
